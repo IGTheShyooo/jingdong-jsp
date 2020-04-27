@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/userList.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
   </component>
@@ -33,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aaCmmmvjW9RU8tFpTrPhGB2ao9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -246,7 +250,7 @@
       <workItem from="1587288443302" duration="1162000" />
       <workItem from="1587381268784" duration="5477000" />
       <workItem from="1587474248671" duration="655000" />
-      <workItem from="1587906754273" duration="5179000" />
+      <workItem from="1587906754273" duration="5772000" />
     </task>
     <servers />
   </component>
