@@ -29,7 +29,7 @@ public class Usercontroller {
 
     @RequestMapping("/userList")
     public String userList() {
-        System.out.println("niubi");
+     
         return "userList-ajax";
     }
 }
